@@ -20,3 +20,18 @@
 ### BIO
 - <img src="https://emojis.slackmojis.com/emojis/images/1643510247/36373/pc.gif?1643510247" width="20"> I had a computer since I was two or three years old and I loved it
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514489/4724/telegram.png?1643514489" width="20">One of my most popular platforms is Telegram
+
+
+<details>
+<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MesterDariush&theme=jolly&show_icons=true" alt="Dariush Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=MesterDariush&&theme=jolly&show_icons=true" alt="MesterDariush"/>
+</p>
+</details>
+
+</h3> 
+<p align="center">
+    <a href="https://github.com/milaan9/milaan9/actions"><img alt="Build README" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"></a>
+<!--https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master-->
+</p>
