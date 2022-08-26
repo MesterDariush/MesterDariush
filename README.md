@@ -15,7 +15,9 @@
 </h3> 
 
 <p align="center">
-    <a href="https://github.com/milaan9?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=dark"></a>
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=dark"></a>
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-1c1e22?style=flat-square&logo=dart&logoColor=blue"></a>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1c1e22?style=flat-square&logo=Flutter&logoColor=blue"></a>
 
 ### BIO
 - <img src="https://emojis.slackmojis.com/emojis/images/1643510247/36373/pc.gif?1643510247" width="20"> I had a computer since I was two or three years old and I loved it
